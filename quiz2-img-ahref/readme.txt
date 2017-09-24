@@ -1,0 +1,1 @@
+quiz for image and anchor reference; reverse engineering style.
