@@ -1,0 +1,11 @@
+Base template of html = html+tab (boilerplate)
+
+Comment = ctrl+/
+
+type tag + tab autocomplete
+
+ctrl + c/x + a line = action to whole line
+
+ctrl + shift + d = copy paste whole line
+
+ctrl + click multiple area in sublime = sync typed
