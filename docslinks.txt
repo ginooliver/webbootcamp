@@ -1,8 +1,14 @@
+- Lecture Documents
 https://drive.google.com/drive/folders/0B7qHXcyKO8LKWGdpcXQtM2liUjQ
-
 
 - MDN
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
 - CSS Specifity calculator
 https://specificity.keegan.st/
+
+- CSS Font reference
+https://www.cssfontstack.com/
+
+- Google Fonts
+https://fonts.google.com/
