@@ -11,8 +11,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 Box Model
 
 Bootstrap
-<<<<<<< HEAD
-=======
 
 GridSystem
->>>>>>> 8121b5a1b7baaeb6b4dd2feeae5c486f2c24efb0
