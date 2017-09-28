@@ -12,3 +12,13 @@ https://www.cssfontstack.com/
 
 - Google Fonts
 https://fonts.google.com/
+
+- Unsplash (photos)
+https://unsplash.com/
+<img src="https://source.unsplash.com/<photoid>">
+
+- Font Awesome
+http://fontawesome.io/
+https://www.bootstrapcdn.com/fontawesome/
+
+
