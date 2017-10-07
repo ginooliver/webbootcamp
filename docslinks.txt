@@ -21,4 +21,10 @@ https://unsplash.com/
 http://fontawesome.io/
 https://www.bootstrapcdn.com/fontawesome/
 
+- UnderscoreJS
+http://underscorejs.org/
+
+- Cool JS site
+https://patatap.com
+
 
