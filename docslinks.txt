@@ -27,4 +27,10 @@ http://underscorejs.org/
 - Cool JS site
 https://patatap.com
 
+- jquery equivalent
+youmightnotneedjquery.com
+
+- jquery apis
+https://api.jquery.com/
+
 
