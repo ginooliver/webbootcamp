@@ -1,0 +1,25 @@
+# .text(); .text("new text");
+# .html(); .html("<tag>text</tag>");
+# .attr(); .attr("tag", "value"); .attr({tag1:"value2", tag2:"value2"});
+# .val(); .val("new value for inputs");
+# .addClass('className');
+# .removeClass('className');
+# .toggleClass('className');
+# .first(); - first element
+# .click(func);
+# $(this). - inheritance
+# .keydown(func(event)); - something is press
+# .keyup(func(event)); - unpressed
+
+# .keypress(func(event)); - inbetween press and unpress
+		event.which - charcode
+
+# .on("event", func);
+
+# .fadeOut(time, func) 
+# .fadeIn(time, func)
+# .fadeToggle(time, func) - fadeIn or fadeOut
+# .slideDown(time, func)
+# .slideUp(time, func)
+# .slideToggle(time, func) - slideDown or slideUp
+	note::: func is a callback - executes after animation
