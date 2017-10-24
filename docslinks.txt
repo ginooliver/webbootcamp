@@ -36,3 +36,14 @@ https://api.jquery.com/
 - charcode
 https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
 
+- gradients
+https://uigradients.com
+
+- paperjs - animation
+http://paperjs.org/
+
+- howler.js - sound
+https://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library
+
+- patatap
+https://github.com/jonobr1/Neuronal-Synchrony
