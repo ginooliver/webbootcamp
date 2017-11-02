@@ -10,6 +10,12 @@ https://specificity.keegan.st/
 - CSS Font reference
 https://www.cssfontstack.com/
 
+- CSS REF
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+- CSS SPECIFICITY
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
 - Google Fonts
 https://fonts.google.com/
 
@@ -47,3 +53,28 @@ https://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Libra
 
 - patatap
 https://github.com/jonobr1/Neuronal-Synchrony
+
+- stack list
+https://stackshare.io
+
+- postman - browser simulator
+https://www.getpostman.com/
+
+- cloud9 - cloud dev
+https://c9.io
+https://ide.c9.io/learnwithcolt/webdevbootcamp - cole steele bootcamp
+
+-commandline
+https://www.davidbaumgold.com/tutorials/command-line/
+
+- nodejs
+https://nodejs.org
+
+- npm - node package manager
+https://www.npmjs.com/
+
+- express - nodejs framework
+https://expressjs.com/
+
+- iftt - api playground
+https://ifttt.com/
