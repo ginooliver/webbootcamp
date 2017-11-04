@@ -76,5 +76,10 @@ https://www.npmjs.com/
 - express - nodejs framework
 https://expressjs.com/
 
-- iftt - api playground
+- api playground
 https://ifttt.com/
+https://www.programmableweb.com/
+
+- json view - to prettyview json in chrome
+https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en
+http://jsonviewer.stack.hu/
