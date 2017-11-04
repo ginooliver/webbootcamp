@@ -8,4 +8,16 @@ Box Model
 
 Bootstrap
 
-OY
+REST - A mapping between HTTP routes and CRUD. CREATE READ UPDATE DESTROY
+7 RESTful routes:
+----------------------------------------------------------------------
+Name   | Path    		| HTTP Verb | Purpose
+----------------------------------------------------------------------
+Index  | /dogs   		| GET       | List all dogs
+New    | /dogs/New   	| GET       | Show new dog form
+Create | /dogs       	| POST      | Create new dog; redirect
+Show   | /dogs/:id   	| GET       | Show info about 1 specific dog
+Edit   | /dogs/:id/edit | GET       | Show edit form for 1 dog
+Update | /dogs/:id      | PUT       | Update particular dog; redirect
+Destroy| /dogs/:id      | DELETE    | Delete particular dog; redirect 
+----------------------------------------------------------------------      
