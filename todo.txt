@@ -1,0 +1,4 @@
+1. style todo app
+2. yelpcamp
+3. yelpcamp + mongodb
+4. blog app using semantic
