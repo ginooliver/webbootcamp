@@ -86,3 +86,8 @@ http://jsonviewer.stack.hu/
 
 - semantic ui
 https://semantic-ui.com/
+
+- passport js auth
+http://www.passportjs.org/
+https://github.com/jaredhanson/passport-local   (local auth)
+https://github.com/saintedlama/passport-local-mongoose   (local auth for mongoose)
